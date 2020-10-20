@@ -1,5 +1,5 @@
 {
-  "appId": "com.geet.hunt",
+  "appId": "io.ionic.starter",
   "appName": "Hunt",
   "bundledWebRuntime": false,
   "npmClient": "npm",
